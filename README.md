@@ -31,55 +31,51 @@ The Command Line (or terminal): a text based interface to the system. Enter comm
   Shortcuts: View your history to see your past commands, and use them again in the future.
   
 #### Basic Navigation
-(pwd) Print Working Directory: remind yourself where you presently are
-(ls) List: to know what is there... i.e. "ls"
-i.e. ls - la
-"- la" is a modifier (This will show me all the hidden files)
+- (pwd) Print Working Directory: remind yourself where you presently are
+- (ls) List: to know what is there... i.e. "ls"
+- i.e. ls - la
+- "- la" is a modifier (This will show me all the hidden files)
 
 #### Paths:
-absolute: A file or directory location in relation to the root of the file system.
-relative: A file or directory location relative to where we currently are in the file system.
-root directory: It is denoted by a single slash ( / )
+- absolute: A file or directory location in relation to the root of the file system.
+- relative: A file or directory location relative to where we currently are in the file system.
+- root directory: It is denoted by a single slash ( / )
+- cd: Change Directories - ie. move to another directory.
+- (i.e.) "cd codefellows/"
 
-cd: Change Directories - ie. move to another directory.
-(i.e.) "cd codefellows/"
+- /etc - Stores config files for the system.
+- /var/log - Stores log files for various system programs.
+- /bin - The location of several commonly used programs (some of which we will learn about in the rest of this tutorial.
+- /usr/bin - Another location for programs on the system.
 
-/etc - Stores config files for the system.
-/var/log - Stores log files for various system programs. (You may not have permission to look at everything in this directory. Don't let that stop you exploring though. A few error messages never hurt anyone.)
-/bin - The location of several commonly used programs (some of which we will learn about in the rest of this tutorial.
-/usr/bin - Another location for programs on the system.
+- "mkdir code-102": make directory
+- "touch": create a file
+- i.e.: "touch index.html"
+- "code .": to open your text editor
+- check history, and then "clear"
 
-"mkdir code-102": make directory
-
-"touch": create a file
-i.e.: "touch index.html"
-"code .": to open your text editor
-vsco? text editor: for Code Fellows
-
-check history, and then "clear"
-
-to go back to the top of your file system, use "cd /"
-go back 1 levels: "cd ./"
-go back 2 levels: "cd ../"
+- to go back to the top of your file system, use "cd /"
+- go back 1 levels: "cd ./"
+- go back 2 levels: "cd ../"
 
 ### About Files
 - Everything is a file under Linux. Even directories.
-Linux is an Extensionless System
+- Linux is an Extensionless System
 command "file [path]": to know for certain what type of file a particular file is
 - a path is a means to get to a particular location in the system and that location is a file
 - Files can have any extension they like or none at all.
 
 Linux is Case Sensitive: Beware of silly typos!
-It is possible to have two or more files and directories with the same name but letters of different case
+- It is possible to have two or more files and directories with the same name but letters of different case
 
-Spaces in names: 2 ways to use spaces in a command line
-Quotes: cd 'Holiday Photos'
-Escape Characters: cd Holiday\ Photos
-Shortcut: use Tab Completion
+- Spaces in names: 2 ways to use spaces in a command line
+- Quotes: cd 'Holiday Photos'
+- Escape Characters: cd Holiday\ Photos
+- Shortcut: use Tab Completion
 
-Hidden Files and Directories
-ls : list of files
-ls -a : show hidden files and directories
+- Hidden Files and Directories
+- ls : list of files
+- ls -a : show hidden files and directories
 
 ### GitHub Notes
 
