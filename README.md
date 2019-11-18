@@ -11,8 +11,8 @@ Github portfolio: https://github.com/mollymeissner
 
 **Reminders on how to keep a growth mindset:**
 1. When it gets tough, or when you're confused, that's when the real learning begins
-2. You learn more and achieve more when you're challenging yourself and pushing yourself to do what's uncomfortable
-3. Studying, practicing, persisting, and listening to feedback leads to growth
+1. You learn more and achieve more when you're challenging yourself and pushing yourself to do what's uncomfortable
+1. Studying, practicing, persisting, and listening to feedback leads to growth
 
 
 GitHub Notes
