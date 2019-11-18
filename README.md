@@ -14,6 +14,9 @@ Github portfolio: https://github.com/mollymeissner
 2. You learn more and achieve more when you're challenging yourself and pushing yourself to do what's uncomfortable
 3. Studying, practicing, persisting, and listening to feedback leads to growth
 
+
+GitHub Notes
+
 You can use the [editor on GitHub](https://github.com/mollymeissner/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
