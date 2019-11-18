@@ -5,18 +5,18 @@ Github portfolio: https://github.com/mollymeissner
 
 **Bio:** As a former Software Business Development Representative at Algolia, I'm excited to challenge my brain to learn the skills of a Software Developer at Code Fellows. I'm ready to _learn how to learn_.
 
-# Growth Mindset
+## Growth Mindset
 
-## A "growth mindset" is the perception that through you can further develop your abilities and intelligence through hard work and dedication.
+### A "growth mindset" is the perception that through you can further develop your abilities and intelligence through hard work and dedication.
 
 **Reminders on how to keep a growth mindset:**
 1. When it gets tough, or when you're confused, that's when the real learning begins
 1. You learn more and achieve more when you're challenging yourself and pushing yourself to do what's uncomfortable
 1. Studying, practicing, persisting, and listening to feedback leads to growth
 
-# The Coder's Computer
+## The Coder's Computer
 
-Choosing a Text Editor
+#### Choosing a Text Editor
 
 I chose to doanload the Text Editor, VS Code, rather than sticking with the Text Editor, "Text Edit" that comes with my Mac computer already. This decision was based on the fact that VS Code is recommended by Code Fellows. It provides more advanced features and allows you to code faster using shortcuts. You can also doanload extensions for css styling or other tools.
 
@@ -30,13 +30,13 @@ The Command Line (or terminal): a text based interface to the system. Enter comm
   
   Shortcuts: View your history to see your past commands, and use them again in the future.
   
-Basic Navigation
+#### Basic Navigation
 (pwd) Print Working Directory: remind yourself where you presently are
 (ls) List: to know what is there... i.e. "ls"
 i.e. ls - la
 "- la" is a modifier(This will show me all the hidden files)
 
-Paths:
+#### Paths:
 absolute: A file or directory location in relation to the root of the file system.
 relative: A file or directory location relative to where we currently are in the file system.
 root directory: It is denoted by a single slash ( / )
@@ -62,7 +62,7 @@ to go back to the top of your file system, use "cd /"
 go back 1 levels: "cd ./"
 go back 2 levels: "cd ../"
 
-About Files
+### About Files
 Linux is an Extensionless System
 command "file [path]": to know for certain what type of file a particular file is
 - a path is a means to get to a particular location in the system and that location is a file
