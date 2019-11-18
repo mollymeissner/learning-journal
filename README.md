@@ -18,7 +18,7 @@ Github portfolio: https://github.com/mollymeissner
 
 Choosing a Text Editor
 
-I chose to doanload the Text Editor, Atom, rather than sticking with the Text Editor, "Text Edit" that comes with my Mac computer already. This decision was based on the fact that Atom was created by GitHub and has a seemless integration with GitHub, making it easy to edit code between the two platforms. Atom also provides more advanced features and allows you to code faster than Text Edit.
+I chose to doanload the Text Editor, VS Code, rather than sticking with the Text Editor, "Text Edit" that comes with my Mac computer already. This decision was based on the fact that VS Code is recommended by Code Fellows. It provides more advanced features and allows you to code faster using shortcuts. You can also doanload extensions for css styling or other tools.
 
 Definition Cheat Sheet of Terms (on Linux):
 The Command Line (or terminal): a text based interface to the system. Enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
