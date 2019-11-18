@@ -1,9 +1,11 @@
-# Growth Mindset
+# Learning Journal
 _by Molly Meissner_
 
 Github portfolio: https://github.com/mollymeissner
 
 **Bio:** As a former Software Business Development Representative at Algolia, I'm excited to challenge my brain to learn the skills of a Software Developer at Code Fellows. I'm ready to _learn how to learn_.
+
+# Growth Mindset
 
 ## A "growth mindset" is the perception that through you can further develop your abilities and intelligence through hard work and dedication.
 
@@ -12,6 +14,30 @@ Github portfolio: https://github.com/mollymeissner
 1. You learn more and achieve more when you're challenging yourself and pushing yourself to do what's uncomfortable
 1. Studying, practicing, persisting, and listening to feedback leads to growth
 
+# The Coder's Computer
+
+Choosing a Text Editor
+
+I chose to doanload the Text Editor, Atom, rather than sticking with the Text Editor, "Text Edit" that comes with my Mac computer already. This decision was based on the fact that Atom was created by GitHub and has a seemless integration with GitHub, making it easy to edit code between the two platforms. Atom also provides more advanced features and allows you to code faster than Text Edit.
+
+Definition Cheat Sheet of Terms:
+The Command Line (or terminal): a text based interface to the system. Enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+  Line 1: Options are typically used to modify the behaviour of the command, and typically start with a dash ( - ).
+  Lines 2 - 5 are output from running the command.
+  Line 6 presents us with a prompt again.
+  
+  bash: a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you.
+  
+  Shortcuts: View your history to see your past commands, and use them again in the future.
+  
+Basic Navigation
+Print Working Directory (pwd): remind yourself where you presently are
+List (Is): to know what is there
+
+Paths:
+
+
+About Files
 
 ### GitHub Notes
 
