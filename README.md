@@ -34,7 +34,7 @@ The Command Line (or terminal): a text based interface to the system. Enter comm
 (pwd) Print Working Directory: remind yourself where you presently are
 (ls) List: to know what is there... i.e. "ls"
 i.e. ls - la
-"- la" is a modifier(This will show me all the hidden files)
+"- la" is a modifier (This will show me all the hidden files)
 
 #### Paths:
 absolute: A file or directory location in relation to the root of the file system.
@@ -63,12 +63,23 @@ go back 1 levels: "cd ./"
 go back 2 levels: "cd ../"
 
 ### About Files
+- Everything is a file under Linux. Even directories.
 Linux is an Extensionless System
 command "file [path]": to know for certain what type of file a particular file is
 - a path is a means to get to a particular location in the system and that location is a file
+- Files can have any extension they like or none at all.
 
-Linux is Case Sensitive
-it is possible to have two or more files and directories with the same name but letters of different case
+Linux is Case Sensitive: Beware of silly typos!
+It is possible to have two or more files and directories with the same name but letters of different case
+
+Spaces in names: 2 ways to use spaces in a command line
+Quotes: cd 'Holiday Photos'
+Escape Characters: cd Holiday\ Photos
+Shortcut: use Tab Completion
+
+Hidden Files and Directories
+ls : list of files
+ls -a : show hidden files and directories
 
 ### GitHub Notes
 
