@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 # Growth Mindset
 _by Molly Meissner_
 
@@ -15,7 +13,7 @@ Github portfolio: https://github.com/mollymeissner
 1. Studying, practicing, persisting, and listening to feedback leads to growth
 
 
-GitHub Notes
+### GitHub Notes
 
 You can use the [editor on GitHub](https://github.com/mollymeissner/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
