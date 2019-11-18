@@ -53,7 +53,8 @@ cd: Change Directories - ie. move to another directory.
 
 "touch": create a file
 i.e.: "touch index.html"
-
+"code .": to open your text editor
+vsco? text editor: for Code Fellows
 
 check history, and then "clear"
 
@@ -62,6 +63,12 @@ go back 1 levels: "cd ./"
 go back 2 levels: "cd ../"
 
 About Files
+Linux is an Extensionless System
+command "file [path]": to know for certain what type of file a particular file is
+- a path is a means to get to a particular location in the system and that location is a file
+
+Linux is Case Sensitive
+it is possible to have two or more files and directories with the same name but letters of different case
 
 ### GitHub Notes
 
