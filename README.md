@@ -20,7 +20,7 @@ Choosing a Text Editor
 
 I chose to doanload the Text Editor, Atom, rather than sticking with the Text Editor, "Text Edit" that comes with my Mac computer already. This decision was based on the fact that Atom was created by GitHub and has a seemless integration with GitHub, making it easy to edit code between the two platforms. Atom also provides more advanced features and allows you to code faster than Text Edit.
 
-Definition Cheat Sheet of Terms:
+Definition Cheat Sheet of Terms (on Linux):
 The Command Line (or terminal): a text based interface to the system. Enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
   Line 1: Options are typically used to modify the behaviour of the command, and typically start with a dash ( - ).
   Lines 2 - 5 are output from running the command.
@@ -31,11 +31,35 @@ The Command Line (or terminal): a text based interface to the system. Enter comm
   Shortcuts: View your history to see your past commands, and use them again in the future.
   
 Basic Navigation
-Print Working Directory (pwd): remind yourself where you presently are
-List (Is): to know what is there
+(pwd) Print Working Directory: remind yourself where you presently are
+(ls) List: to know what is there... i.e. "ls"
+i.e. ls - la
+"- la" is a modifier(This will show me all the hidden files)
 
 Paths:
+absolute: A file or directory location in relation to the root of the file system.
+relative: A file or directory location relative to where we currently are in the file system.
+root directory: It is denoted by a single slash ( / )
 
+cd: Change Directories - ie. move to another directory.
+(i.e.) "cd codefellows/"
+
+/etc - Stores config files for the system.
+/var/log - Stores log files for various system programs. (You may not have permission to look at everything in this directory. Don't let that stop you exploring though. A few error messages never hurt anyone.)
+/bin - The location of several commonly used programs (some of which we will learn about in the rest of this tutorial.
+/usr/bin - Another location for programs on the system.
+
+"mkdir code-102": make directory
+
+"touch": create a file
+i.e.: "touch index.html"
+
+
+check history, and then "clear"
+
+to go back to the top of your file system, use "cd /"
+go back 1 levels: "cd ./"
+go back 2 levels: "cd ../"
 
 About Files
 
