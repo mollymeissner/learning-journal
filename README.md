@@ -21,20 +21,20 @@ Github portfolio: https://github.com/mollymeissner
 I chose to doanload the Text Editor, VS Code, rather than sticking with the Text Editor, "Text Edit" that comes with my Mac computer already. This decision was based on the fact that VS Code is recommended by Code Fellows. It provides more advanced features and allows you to code faster using shortcuts. You can also doanload extensions for css styling or other tools.
 
 Definition Cheat Sheet of Terms (on Linux):
-The Command Line (or terminal): a text based interface to the system. Enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
-  Line 1: Options are typically used to modify the behaviour of the command, and typically start with a dash ( - ).
-  Lines 2 - 5 are output from running the command.
-  Line 6 presents us with a prompt again.
+- The Command Line (or terminal): a text based interface to the system. Enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+  - Line 1: Options are typically used to modify the behaviour of the command, and typically start with a dash ( - ).
+  - Lines 2 - 5 are output from running the command.
+  - Line 6 presents us with a prompt again.
   
-  bash: a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you.
+- bash: a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you.
   
-  Shortcuts: View your history to see your past commands, and use them again in the future.
+- Shortcuts: View your history to see your past commands, and use them again in the future.
   
 #### Basic Navigation
 1. (pwd) Print Working Directory: remind yourself where you presently are
-1. (ls) List: to know what is there... i.e. "ls"
-1. i.e. ls - la
+1. ls : list of files
 1. "- la" is a modifier (This will show me all the hidden files)
+- ls -a : show hidden files and directories
 
 #### Paths:
 1. absolute: A file or directory location in relation to the root of the file system.
@@ -66,16 +66,12 @@ command "file [path]": to know for certain what type of file a particular file i
 - Files can have any extension they like or none at all.
 
 Linux is Case Sensitive: Beware of silly typos!
-1. It is possible to have two or more files and directories with the same name but letters of different case
+- It is possible to have two or more files and directories with the same name but letters of different case
 
 Spaces in names: 2 ways to use spaces in a command line
 1. Quotes: cd 'Holiday Photos'
 1. Escape Characters: cd Holiday\ Photos
-1. Shortcut: use Tab Completion
-
-- Hidden Files and Directories
-- ls : list of files
-- ls -a : show hidden files and directories
+*Shortcut*: use Tab Completion
 
 ### GitHub Notes
 
