@@ -17,7 +17,8 @@ _Terminal_:
 1. git remote -v
 1. git status: to know if you have anything to commit
 1. code . : to open the file in VS code
-1. After making a change to the repo on VS code, you save it.
+
+After making a change to the repo on VS code, you save it.
 1. git status: "Changes not staged for commit"
 1. git branch: tells you where you are, i.e. "Master"
 1. git add README.md

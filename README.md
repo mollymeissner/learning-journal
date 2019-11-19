@@ -6,6 +6,7 @@ _by Molly Meissner_
 **Bio:** As a former Software Business Development Representative at Algolia, I'm excited to challenge my brain to learn the skills of a Software Developer at Code Fellows. I'm ready to _learn how to learn_.
 
 ## Table of Contents
+<!-- TOC -->autoauto- [1. Learning Journal](#1-learning-journal)auto    - [1.1. Table of Contents](#11-table-of-contents)auto    - [1.2. Growth Mindset](#12-growth-mindset)auto        - [1.2.1. A "growth mindset" is the perception that through you can further develop your abilities and intelligence through hard work and dedication.](#121-a-growth-mindset-is-the-perception-that-through-you-can-further-develop-your-abilities-and-intelligence-through-hard-work-and-dedication)auto    - [1.3. The Coder's Computer](#13-the-coders-computer)auto            - [1.3.0.1. Choosing a Text Editor](#1301-choosing-a-text-editor)auto            - [1.3.0.2. Paths:](#1302-paths)auto        - [1.3.1. Basic Navigation in the Terminal](#131-basic-navigation-in-the-terminal)auto        - [1.3.2. About Files](#132-about-files)auto        - [1.3.3. GitHub Pages:](#133-github-pages)auto    - [1.4. Learning Markdown:](#14-learning-markdown)auto        - [1.4.1. Jekyll Themes](#141-jekyll-themes)autoauto<!-- /TOC -->
 
 ## Growth Mindset
 
@@ -31,17 +32,18 @@ Definition Cheat Sheet of Terms (on Linux):
 - bash: a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you.
   
 - Shortcuts: View your history to see your past commands, and use them again in the future.
-  
-#### Basic Navigation
+
+#### Paths:
+1. absolute: A file or directory location in relation to the root of the file system.
+1. relative: A file or directory location relative to where we currently are in the file system.
+
+### Basic Navigation in the Terminal
 1. (pwd) Print Working Directory: remind yourself where you presently are
 1. tree: directory in the view
 1. ls : list of files
 1. "- la" is a modifier (This will show me all the hidden files)
 - ls -la : show hidden files and directories
 
-#### Paths:
-1. absolute: A file or directory location in relation to the root of the file system.
-1. relative: A file or directory location relative to where we currently are in the file system.
 1. root directory: It is denoted by a single slash ( / )
 1. cd: Change Directories - ie. move to another directory.
 1. (i.e.) "cd codefellows/"
@@ -76,21 +78,13 @@ Spaces in names: 2 ways to use spaces in a command line
 1. Escape Characters: cd Holiday\ Photos
 *Shortcut*: use Tab Completion
 
-### Learning Markdown:
-
-- Markdown is an easy-to-use syntax for styling writing. For examples, GitHub explains this further below!
-
 ### GitHub Pages:
 
 - GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website
 
-### GitHub Notes
+## Learning Markdown:
 
-You can use the [editor on GitHub](https://github.com/mollymeissner/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+- Markdown is an easy-to-use syntax for styling writing. For examples, GitHub explains this further below!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -111,9 +105,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mollymeissner/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
