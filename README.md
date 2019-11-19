@@ -34,7 +34,7 @@ Definition Cheat Sheet of Terms (on Linux):
 1. (pwd) Print Working Directory: remind yourself where you presently are
 1. ls : list of files
 1. "- la" is a modifier (This will show me all the hidden files)
-- ls -a : show hidden files and directories
+- ls -la : show hidden files and directories
 
 #### Paths:
 1. absolute: A file or directory location in relation to the root of the file system.
