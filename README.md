@@ -10,8 +10,6 @@ _by Molly Meissner_
 
 : me
 
-
-
 [Github portfolio](https://github.com/mollymeissner)
 
 **Bio:** As a former Software Business Development Representative at Algolia, I'm excited to challenge my brain to learn the skills of a Software Developer at Code Fellows. I'm ready to _learn how to learn_.
