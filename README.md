@@ -6,7 +6,9 @@ _by Molly Meissner_
 **Bio:** As a former Software Business Development Representative at Algolia, I'm excited to challenge my brain to learn the skills of a Software Developer at Code Fellows. I'm ready to _learn how to learn_.
 
 ## Table of Contents
-<!-- TOC -->autoauto- [1. Learning Journal](#1-learning-journal)auto    - [1.1. Table of Contents](#11-table-of-contents)auto    - [1.2. Growth Mindset](#12-growth-mindset)auto        - [1.2.1. A "growth mindset" is the perception that through you can further develop your abilities and intelligence through hard work and dedication.](#121-a-growth-mindset-is-the-perception-that-through-you-can-further-develop-your-abilities-and-intelligence-through-hard-work-and-dedication)auto    - [1.3. The Coder's Computer](#13-the-coders-computer)auto            - [1.3.0.1. Choosing a Text Editor](#1301-choosing-a-text-editor)auto            - [1.3.0.2. Paths:](#1302-paths)auto        - [1.3.1. Basic Navigation in the Terminal](#131-basic-navigation-in-the-terminal)auto        - [1.3.2. About Files](#132-about-files)auto        - [1.3.3. GitHub Pages:](#133-github-pages)auto    - [1.4. Learning Markdown:](#14-learning-markdown)auto        - [1.4.1. Jekyll Themes](#141-jekyll-themes)autoauto<!-- /TOC -->
+- [Growth Mindset](#GrowthMindset)
+
+- [Git](https://mollymeissner.github.io/learning-journal/git.md)
 
 ## Growth Mindset
 
