@@ -1,16 +1,16 @@
 # Git
 
-### Git is a VCS (Version Control System) where you can view, apply, and remove changes. It's working "under the hood" and we can give it commands utilizing GitHub, the terminal, and VS Code. It stores data in a file system made out of snapshots (the stages of your workflow).
+### Git is a *VCS* (Version Control System) where you can view, apply, and remove changes. It's working "under the hood" and we can give it commands utilizing GitHub, the terminal, and VS Code. It stores data in a file system made out of snapshots (the stages of your workflow).
 
 ### Other facts about Git:
 - There are 3 states: Committed, Modified, and Staged
 - The most recent commit is called the "Head", indicating where you currently are
 - This VCS allows for multiple developers and teams to work on the same code at once
 
-Steps of Revision between GitHub and the Terminal:
-1. GitHub: Create and clone the repository
+### Steps of Revision between GitHub and the Terminal:
+1. _GitHub_: Create and clone the repository
 
-Terminal:
+_Terminal_:
 1. Add the URL of the repo: git clone "https://..."
 1. cd learning-journal/
 1. git remote -v
