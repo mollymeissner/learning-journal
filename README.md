@@ -7,7 +7,8 @@ _by Molly Meissner_
 
 ## Table of Contents
 - [Growth Mindset](#GrowthMindset)
-
+- [The Coder's Computer](#TheCodersComputer)
+- [Learning Markdown](#LearningMarkdown)
 - [Git](https://mollymeissner.github.io/learning-journal/git.md)
 
 ## Growth Mindset
@@ -19,7 +20,7 @@ _by Molly Meissner_
 1. You learn more and achieve more when you're challenging yourself and pushing yourself to do what's uncomfortable
 1. Studying, practicing, persisting, and listening to feedback leads to growth
 
-## The Coder's Computer
+## The Coders Computer
 
 #### Choosing a Text Editor
 
