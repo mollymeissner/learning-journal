@@ -1,10 +1,12 @@
 # Learning Journal
 _by Molly Meissner_
 = me
+
 + me
+
 @ me
 
-*me
+> me
 
 : me
 
