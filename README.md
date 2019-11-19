@@ -73,6 +73,14 @@ Spaces in names: 2 ways to use spaces in a command line
 1. Escape Characters: cd Holiday\ Photos
 *Shortcut*: use Tab Completion
 
+### Learning Markdown:
+
+- Markdown is an easy-to-use syntax for styling writing. For examples, GitHub explains this further below!
+
+### GitHub Pages:
+
+- GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website
+
 ### GitHub Notes
 
 You can use the [editor on GitHub](https://github.com/mollymeissner/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
