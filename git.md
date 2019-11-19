@@ -8,7 +8,8 @@
 - This VCS allows for multiple developers and teams to work on the same code at once
 
 ### Steps of Revision between GitHub and the Terminal:
-1. _GitHub_: Create and clone the repository
+_GitHub_:
+1. Create and clone the repository
 
 _Terminal_:
 1. Add the URL of the repo: git clone "https://..."
