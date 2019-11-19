@@ -32,6 +32,7 @@ Definition Cheat Sheet of Terms (on Linux):
   
 #### Basic Navigation
 1. (pwd) Print Working Directory: remind yourself where you presently are
+1. tree: directory in the view
 1. ls : list of files
 1. "- la" is a modifier (This will show me all the hidden files)
 - ls -la : show hidden files and directories
@@ -49,10 +50,10 @@ Definition Cheat Sheet of Terms (on Linux):
 1. /usr/bin - Another location for programs on the system.
 
 1. "mkdir code-102": make directory
-1. "touch": create a file
-1. i.e.: "touch index.html"
+1. "touch": create a file (i.e.: "touch index.html")
 1. "code .": to open your text editor
 1. check history, and then "clear"
+1. rm <file>: delete file (forever)
 
 1. to go back to the top of your file system, use "cd /"
 1. go back 1 levels: "cd ./"
