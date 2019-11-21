@@ -1,0 +1,44 @@
+# .js
+*Access the content on the page
+*Modify the content on the page
+*Program rules or instructions the browser can follow
+*React to events triggered by the web or browser
+
+*Programming is speaking the language of the computer
+*You can teach the machine to do a new trick
+
+# Script:
+*Series of Instructions. The Computer runs different sections of code in response to the situation
+*Define the goal, design script, and code each step
+*Frist, create a Flowchart: a visual of tasks and steps
+
+## Objects:
+*Properties: characteristics like name and value
+*Events: the computer's way of saying, "This just happened"
+*Methods: represents how people or other things interact with an object in the real world
+
+*It's like making a recipe: Input (ingredients), Processing (instructions), and Output (the results)!
+
+# Expressions:
+
+## Evaluates into a single value
+
+### There are 2 types of Expressions:
+1. Assign a value to a variable
+1. Use 2 or more values to return a single variable
+
+### Expressions rely on Operators
+
+#Operators:
+
+## Assignment Operator:
+*Assign a value to a variable
+*ie.: color='beige';
+
+## Arithmetic Operator:
+*Perform basic math
+*ie.: total = (2+4) * 10;
+
+String Operator:
+*combine two strings
+*ie.: greeting = 'Howdy';
