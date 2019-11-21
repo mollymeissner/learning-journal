@@ -19,7 +19,7 @@
 
 *It's like making a recipe: Input (ingredients), Processing (instructions), and Output (the results)!
 
-# Expressions:
+## Expressions:
 
 ## Evaluates into a single value
 
@@ -29,7 +29,7 @@
 
 ### Expressions rely on Operators
 
-# Operators:
+## Operators:
 
 ## Assignment Operator:
 *Assign a value to a variable
@@ -43,7 +43,7 @@ String Operator:
 *combine two strings
 *ie.: greeting = 'Howdy';
 
-## Function: let you group a series of statements together to perform a specific task.
+## Function: lets you group a series of statements together to perform a specific task.
   *ie.: function sayHello() {
           document.write('Hello!');
 *If different parts of a script repeat the same task, you can reuse the function
