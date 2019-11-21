@@ -29,7 +29,7 @@
 
 ### Expressions rely on Operators
 
-#Operators:
+# Operators:
 
 ## Assignment Operator:
 *Assign a value to a variable
