@@ -56,7 +56,7 @@ String Operator:
 
 ### return value: the response to a function
 
-###Calling the function: when you ask it to perform a task
+### Calling the function: when you ask it to perform a task
 
 ### Arguments: values or variables, inside the parentheses that follow its name
 *Arguments as values:
