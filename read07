@@ -42,3 +42,12 @@
 String Operator:
 *combine two strings
 *ie.: greeting = 'Howdy';
+
+## Function: let you group a series of statements together to perform a specific task.
+  *ie.: function sayHello() {
+          document.write('Hello!');
+*If different parts of a script repeat the same task, you can reuse the function
+  *(rather than repeating the same set of statements).
+*Parameters: pieces of info passed to a function
+*return value: the response to a function
+*Calling the function: when you ask it to perform a task
