@@ -66,3 +66,5 @@ String Operator:
  *wallWidth = 3;
  *wallHeight = 5;
  *getArea(wallWidth, wallHeight);
+ 
+ ## Class lecture notes on VS Code .js!
