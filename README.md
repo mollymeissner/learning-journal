@@ -10,6 +10,9 @@ _by Molly Meissner_
 - [The Coder's Computer](#TheCodersComputer)
 - [Learning Markdown](#LearningMarkdown)
 - [Git](https://mollymeissner.github.io/learning-journal/git.md)
+- [Operators and Loops](https://mollymeissner.github.io/operators-and-loops/git.md)
+- [CSS](https://mollymeissner.github.io/css-webpages/git.md)
+
 
 ## Growth Mindset
 
