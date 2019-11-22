@@ -10,7 +10,7 @@ _by Molly Meissner_
 - [The Coder's Computer](#TheCodersComputer)
 - [Learning Markdown](#LearningMarkdown)
 - [Git](https://mollymeissner.github.io/learning-journal/git.md)
-- [Operators and Loops](https://github.com/mollymeissner/learning-journal/blob/master/operators-and-loops.md)
+- [Operators and Loops](https://mollymeissner.github.io/learning-journal/operators-and-loops.md)
 - [CSS](https://mollymeissner.github.io/css-webpages/git.md)
 
 
