@@ -12,8 +12,8 @@ _by Molly Meissner_
 - [Git](https://mollymeissner.github.io/learning-journal/git.md)
 - [Operators and Loops](https://mollymeissner.github.io/learning-journal/operators-and-loops.md)
 - [CSS](https://mollymeissner.github.io/learning-journal/css-webpages.md)
-- [How Computers Work](https://mollymeissner.github.io/learning-journal/how-computers-work.md))
-- [JavaScript](https://mollymeissner.github.io/learning-journal/read07.md))
+- [How Computers Work](https://mollymeissner.github.io/learning-journal/how-computers-work.md)
+- [JavaScript](https://mollymeissner.github.io/learning-journal/read07.md)
 
 ## Growth Mindset
 
